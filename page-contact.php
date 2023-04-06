@@ -1,6 +1,16 @@
 <?php get_header(); ?>
 
-<h1>Contact</h1>
-<p>sdfsfsdf</p>
+<body>
+    <section class="contact-us-section">
+        <div>
+            <img src="" alt="">
+        </div>
+
+        <div>
+            <!-- insert conact page plugin -->
+        </div>
+
+    </section>
+</body>
 
 <?php get_footer(); ?>
